@@ -116,3 +116,7 @@ a:hover {
 a:active {
   color: rgb(245, 160, 32);
 }
+
+a {
+  color: rgb(245, 160, 32);
+}
